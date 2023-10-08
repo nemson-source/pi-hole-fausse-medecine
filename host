@@ -1,0 +1,22 @@
+#  ceci est une liste pour blocker tout les site de medecine alternative est autre conneris de la medecine alternative francais (uniquement pour le fichier host local des pc windows)
+#  si vous trouvez des site a blocker envoyer via mail aux mail suivant : nemson.contact@yahoo.com
+#  ==============================================================
+
+127.0.0.1 www.methodejmv.com
+127.0.0.1 www.chenmen.fr
+127.0.0.1 www.medecines-douces.com
+127.0.0.1 www.meditationfrance.com
+127.0.0.1 www.editions-ariane.com
+127.0.0.1 www.medoucine.com
+127.0.0.1 www.petitbambou.com
+127.0.0.1 www.planetaverd.net
+127.0.0.1 www.crenolibre.fr
+127.0.0.1 www.resalib.fr
+127.0.0.1 www.docteurtamalou.fr
+127.0.0.1 www.lamedecinedouce.com
+127.0.0.1 www.liberlo.com
+127.0.0.1 www.perfactive.fr
+127.0.0.1 www.elsevier.com
+127.0.0.1 www.flmne.org
+127.0.0.1 www.moreau-acupuncteur.fr
+127.0.0.1 www.annuaire-therapeutes.com
