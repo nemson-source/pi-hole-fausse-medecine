@@ -1,4 +1,4 @@
-# pi-hole-alt_med
+# pi-hole fraude medical
 une block liste de site de médecine alternative Français
 ceci est une liste pour bloquer les site de medecine alternative francais
 si vous trouvez des site a bloquer envoyer via mail aux mail suivant : nemson.contact@yahoo.com
